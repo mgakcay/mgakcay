@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Gorkem</h1>
-<h3 align="center">Full Stack Python Developer</h3>
-
 - 🔭 I’m currently working at [Optiwisdom](https://www.linkedin.com/company/optiwisdom/)
 
 - 📫 How to reach me **mg.akcay98@gmail.com**
